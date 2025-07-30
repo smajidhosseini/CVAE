@@ -3,8 +3,6 @@
 **This repository contains only the datasets and preprocessing scripts  
 needed for reproducing the experiments in our AAAI‑25 submission**  
 “Weighted Fusion Multimodal Learning Under Missing Data”.  
-_Do not_ publish the manuscript or figures here—only data and code.
-
 ---
 
 ## 📂 Repository Structure
